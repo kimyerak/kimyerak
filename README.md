@@ -1,16 +1,26 @@
-## Hi there 👋
+# Yerak Kim👩‍💻
+- Front-End (Flutter, React)
+- Back-End (Nest, Springboot)
+- Data-Analystic (Python)
 
-<!--
-**kimyerak/kimyerak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Education🥼
 
-Here are some ideas to get you started:
+- Korea University (2021.03~)
+- KAIST madcamp (2024.07)
+- University of British Columbia (UBC) Exchange student (2024.01~05)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Awarded at✨
+
+> KAIST Sparcs AI Startup Hackathon (최우수상)
+
+
+I paricipated in the Hackathon above as a backend developer. https://github.com/kimyerak/kaist_week5
+> ChannelTalk Hackathon Hacky-Talky (대상)
+
+
+I paricipated in the Hackathon above as a frontend developer. https://channel.io/ko/blog/articles/54409341
+
+
+
+
+**To be continued...**
