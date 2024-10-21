@@ -3,7 +3,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,nodejs,figma,js,html,css,&theme=light)](https://skillicons.dev)
 - Front-End (Flutter, React)
 - Back-End (Nest, Springboot)
-- Data-Analystic (Python)
+- Data-Analysis (Python)
 
 ### Education✨
 
