@@ -1,6 +1,8 @@
 # Yerak Kim👩‍💻
 [![My Skills](https://skillicons.dev/icons?i=flutter,react,nest,py,aws)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=java,nodejs,figma,js,html,css,&theme=light)](https://skillicons.dev)
+
+### Interests✨
 - Front-End (Flutter, React)
 - Back-End (Nest, Springboot)
 - Data-Analysis (Python)
