@@ -23,7 +23,7 @@ I paricipated in the Hackathon above as a backend developer. https://github.com/
 
 
 I paricipated in the Hackathon above as a frontend developer. https://channel.io/ko/blog/articles/54409341
-> 고려대학교 정보대학 inthon 해커톤 (금상)
+> 2024 고려대학교 정보대학 inthon 해커톤 (금상-2위)
 
 
 I paricipated in the Hackathon above as a frontend developer. https://github.com/kimyerak/Artique_front
