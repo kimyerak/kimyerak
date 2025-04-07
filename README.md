@@ -15,18 +15,19 @@
 
 ### Awarded at✨
 
-> KAIST Sparcs AI Startup Hackathon (최우수상)
+> **KAIST Sparcs AI Startup Hackathon (최우수상 / Grand Prize)**  
+Participated as a **backend developer**.  
+[Project GitHub Repository](https://github.com/kimyerak/kaist_week5)
 
+> **ChannelTalk Hackathon: Hacky-Talky (대상 / 1st Place)**  
+Contributed as a **frontend developer**.  
+[Channel.io Blog Post](https://channel.io/ko/blog/articles/54409341)
 
-I paricipated in the Hackathon above as a backend developer. https://github.com/kimyerak/kaist_week5
-> ChannelTalk Hackathon Hacky-Talky (대상)
+> **2024 Korea University CSE Inthon Hackathon (금상 / 2nd Place)**  
+Worked as a **frontend developer**.  
+[Project GitHub Repository](https://github.com/kimyerak/Artique_front)
 
-
-I paricipated in the Hackathon above as a frontend developer. https://channel.io/ko/blog/articles/54409341
-> 2024 고려대학교 정보대학 inthon 해커톤 (금상-2위)
-
-
-I paricipated in the Hackathon above as a frontend developer. https://github.com/kimyerak/Artique_front
+---
 
 
 
