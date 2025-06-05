@@ -9,7 +9,7 @@
 
 ### Education✨
 
-- Korea University (2021.03~)
+- Korea University CSE (2021.03~)
 - KAIST madcamp (2024.07)
 - University of British Columbia (UBC) Exchange student (2024.01~05)
 
