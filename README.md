@@ -27,7 +27,7 @@ Contributed as a **frontend developer**.
 Worked as a **frontend developer**.  
 [Project GitHub Repository](https://github.com/kimyerak/Artique_front)
 
-> **Korea Univ Next Software Contest (은상 / 3rd Prize)**  
+> **Korea Univ 캡스톤 디자인 Contest (최우수상 / 1st Prize)**  
 Participated as a **backend developer**.  
 [Project GitHub Repository](https://github.com/kimyerak/newsqrab_back)
 
