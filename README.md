@@ -16,6 +16,7 @@
 ### Awarded at✨
 > **25-1 컴퓨터학과 캡스톤 디자인 Contest (최우수상 / 1st Prize)**  
 Participated as a **backend developer & team leader**.
+[Project GitHub Repository](https://github.com/kimyerak/newsqrab_back)
 
 > **KAIST Sparcs AI Startup Hackathon (최우수상 / Grand Prize)**  
 Participated as a **backend developer**.  
@@ -28,7 +29,6 @@ Contributed as a **frontend developer**.
 > **2024 Korea University CSE Inthon Hackathon (금상 / 2nd Place)**  
 Worked as a **frontend developer**.  
 [Project GitHub Repository](https://github.com/kimyerak/Artique_front)
-[Project GitHub Repository](https://github.com/kimyerak/newsqrab_back)
 
 ---
 
